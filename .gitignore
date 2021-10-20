@@ -1,0 +1,9 @@
+# Node Module
+node_modules
+
+# Parcel Development Files
+.parcel-cache
+dist
+
+# Operating System Files
+.DS_Store
